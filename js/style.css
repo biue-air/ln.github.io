@@ -487,7 +487,7 @@ main {
 	background-color: rgba(85,85,85,0);
 	color: #eee;
 	min-height: 100%;
-	transition: background-color 5s ease
+	transition: background-color 50s ease
 }
 
 #page a {
