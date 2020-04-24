@@ -1,0 +1,72 @@
+{
+  "id": "1778132",
+  "name": "A1",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "7771603",
+      "name": "home",
+      "font_class": "home",
+      "unicode": "e75f",
+      "unicode_decimal": 59231
+    },
+    {
+      "icon_id": "7771604",
+      "name": "chat2",
+      "font_class": "chat",
+      "unicode": "e75e",
+      "unicode_decimal": 59230
+    },
+    {
+      "icon_id": "8790367",
+      "name": "nice",
+      "font_class": "nice",
+      "unicode": "e76b",
+      "unicode_decimal": 59243
+    },
+    {
+      "icon_id": "8790368",
+      "name": "OK",
+      "font_class": "OK",
+      "unicode": "e76c",
+      "unicode_decimal": 59244
+    },
+    {
+      "icon_id": "8790374",
+      "name": "bad",
+      "font_class": "bad",
+      "unicode": "e76d",
+      "unicode_decimal": 59245
+    },
+    {
+      "icon_id": "12971016",
+      "name": "社交-个人",
+      "font_class": "shejiao-geren",
+      "unicode": "e621",
+      "unicode_decimal": 58913
+    },
+    {
+      "icon_id": "12971017",
+      "name": "社交-收藏",
+      "font_class": "shejiao-shoucang",
+      "unicode": "e622",
+      "unicode_decimal": 58914
+    },
+    {
+      "icon_id": "12971028",
+      "name": "社交-对话框2",
+      "font_class": "shejiao-duihuakuang",
+      "unicode": "e624",
+      "unicode_decimal": 58916
+    },
+    {
+      "icon_id": "12971030",
+      "name": "社交-分享",
+      "font_class": "shejiao-fenxiang",
+      "unicode": "e625",
+      "unicode_decimal": 58917
+    }
+  ]
+}
